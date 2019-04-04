@@ -3,6 +3,7 @@
 University of Pittsburgh
 
 CS 1501 Algorithm Implementation
+  - Writing section
 
 Instructor: Nicholas Farnan
 
